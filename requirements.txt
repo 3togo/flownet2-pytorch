@@ -1,0 +1,5 @@
+torchvision
+tensorboardX
+setproctitle
+colorama
+tqdm
